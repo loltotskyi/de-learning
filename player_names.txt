@@ -7,13 +7,10 @@ Alexis Mac Allister
 Vitinha
 Florian Wirz
 Lamine Yamal
-<<<<<<< HEAD
 Mohammed Salah
 Erling Holand
-=======
-Rafinha
-Mbappe
->>>>>>> feature
 
 
 Coach: Jurgen Klopp
+
+For tag only
